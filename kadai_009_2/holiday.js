@@ -9,7 +9,7 @@ for (let i = 0; i <= 15; i++) {
 
 i = 0; // iの値を0に戻す
 
-while (i < １６；) {
+while (i < holidays.length) {
     console.log(holidays[i]);
     i++;
 }
